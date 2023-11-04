@@ -5,6 +5,7 @@ body {
 
 .banner {
     display: flex;
+    background-color: #cccccc65;
 }
 #topo {
     
