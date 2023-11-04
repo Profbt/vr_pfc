@@ -25,3 +25,13 @@ h1 {
     text-align: center;
     text-transform: uppercase;
 }
+
+.game {
+    display: flex;
+}
+
+.ingame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
