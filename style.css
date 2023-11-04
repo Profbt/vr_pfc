@@ -7,8 +7,8 @@ body {
     display: flex;
 }
 #topo {
-    justify-content: center;
-    align-items: center;
+    
+    margin: auto;
 }
 
 h1 {
