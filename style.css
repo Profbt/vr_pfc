@@ -1,7 +1,6 @@
 body {
-    display: flex;
     background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,14,1) 35%, rgba(249,255,0,1) 100%);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,14,1) 35%, rgba(249,255,0,1) 100%);
 }
 
 #banner {
