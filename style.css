@@ -78,7 +78,7 @@ p {
 }
 
 nav li {
-    display: inline;
+    display: flex;
     padding: 20px;
 }
 
