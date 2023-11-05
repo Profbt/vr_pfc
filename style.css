@@ -97,6 +97,6 @@ nav a:hover {
 
 .banner {
     display: block;
-    justify-items: center;
-    align-self: center;
+    justify-content: center;
+    align-items: center;
 }
