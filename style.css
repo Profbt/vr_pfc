@@ -13,9 +13,8 @@ body {
     background-color: #cccccc65;
 }
 #topo {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    
+    margin: auto;
     text-shadow: 1px snow;
 }
 
@@ -79,13 +78,8 @@ p {
 }
 
 nav li {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
+    display: inline;
     padding: 20px;
-    
 }
 
 nav a {
@@ -102,6 +96,4 @@ nav a:hover {
 
 .banner {
     display: block;
-    justify-content: center;
-    align-items: center;
 }
