@@ -76,3 +76,20 @@ p {
     color: white;
     text-transform: uppercase;
 }
+
+nav li {
+    display: inline;
+    padding: 20px;
+}
+
+nav a {
+    text-transform: uppercase;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover {
+    color: black;
+    text-decoration: underline;
+}
