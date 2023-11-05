@@ -78,9 +78,9 @@ p {
 }
 
 nav li {
-    display: flex;
+    display: inline;
     padding: 20px;
-    flex-direction: row;
+    
 }
 
 nav a {
