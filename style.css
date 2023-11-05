@@ -93,3 +93,7 @@ nav a:hover {
     color: black;
     text-decoration: underline;
 }
+
+header {
+    display: flex;
+}
