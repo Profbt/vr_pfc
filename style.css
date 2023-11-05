@@ -96,5 +96,7 @@ nav a:hover {
 }
 
 .banner {
-    display: flex;
+    display: block;
+    justify-items: center;
+    align-self: center;
 }
