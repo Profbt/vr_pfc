@@ -38,11 +38,6 @@ h1 {
     align-items: center;
 }
 
-aside {
-    width: 100px;
-    height: 200px;
-}
-
 nav {
     display: flex;
     flex-direction: column;
