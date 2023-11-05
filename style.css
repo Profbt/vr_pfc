@@ -80,6 +80,7 @@ p {
 nav li {
     display: inline;
     padding: 20px;
+    align-items: center;
 }
 
 nav a {
