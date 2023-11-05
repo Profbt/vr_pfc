@@ -14,7 +14,7 @@ body {
 }
 #topo {
     display: flex;
-    background-color: #cccccc65;
+    background-color: #cccccc65 100vw;
     margin: auto;
     text-shadow: 1px snow;
 }
