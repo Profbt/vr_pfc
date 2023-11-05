@@ -33,8 +33,7 @@ h1 {
 }
 
 .ingame {
-    display: flex;
-    justify-content: flex-start;
+    margin-right: 3%;
 }
 
 .ingame-2 {
