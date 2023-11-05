@@ -9,9 +9,11 @@ body {
 }
 
 .banner {
+    display: flex;
     background-color: #cccccc65;
 }
 #topo {
+    display: flex;
     background-color: #cccccc65;
     margin: auto;
     text-shadow: 1px snow;
