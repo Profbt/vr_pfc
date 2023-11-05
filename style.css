@@ -51,10 +51,11 @@ li {
 nav li {
     display: flex;
     justify-content: space-evenly;
+    margin-right: 0;
 }
 
 #qr {
-    width: 20%;
+    width: 50%;
 }
 
 #vr {
@@ -62,9 +63,9 @@ nav li {
 }
 
 #pfc {
-    width: 15%;
+    width: 40%;
 }
 
 #edu {
-    width: 30%;
+    width: 40%;
 }
