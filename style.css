@@ -13,8 +13,9 @@ body {
     background-color: #cccccc65;
 }
 #topo {
-    
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
     text-shadow: 1px snow;
 }
 
