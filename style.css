@@ -49,7 +49,7 @@ li {
 
 nav li {
     display: flex;
-    
+    justify-content: space-evenly;
 }
 
 #qr {
