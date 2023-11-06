@@ -55,7 +55,7 @@ h1 {
 
 .lateral .li-lateral {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     margin-right: 0;
 }
 
