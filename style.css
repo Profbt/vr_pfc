@@ -101,6 +101,6 @@ nav a {
 
 nav a:hover {
     color: rgb(0, 44, 10);
-    text-decoration: solid;
+    text-decoration: underline;
 }
 
