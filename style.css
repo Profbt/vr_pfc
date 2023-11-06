@@ -50,7 +50,7 @@ h1 {
 
 .li-lateral {
     text-transform: none;
-    padding-top: 30px;
+    padding-top: 20px;
 }
 
 .lateral .li-lateral {
@@ -61,11 +61,11 @@ h1 {
 
 #qr {
     width: 45%;
-    margin-top: 1px;
+    margin-top: 0.5px;
 }
 
 #vr {
-   width: 30%;
+   width: 40%;
 }
 
 #pfc {
