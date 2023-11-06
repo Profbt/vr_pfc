@@ -56,7 +56,7 @@ h1 {
 .lateral .li-lateral {
     display: flex;
     justify-content: space-around;
-    margin-right: 0;
+    
 }
 
 #qr {
